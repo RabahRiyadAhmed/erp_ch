@@ -1,0 +1,23 @@
+{
+    "Log In": "تسجيل الدخول",
+    "Don't have an account?": "ليس لديك حساب؟",
+    "Sign Up": "إنشاء حساب",
+    "Success": "نجاح",
+    "Enter your email address and password to access admin panel.": "أدخل بريدك الإلكتروني وكلمة المرور للوصول إلى لوحة الإدارة.",
+    "Username": "اسم المستخدم",
+    "Password": "كلمة المرور",
+    "Sign in with": "تسجيل الدخول باستخدام",
+    "Forgot your password?": "هل نسيت كلمة المرور؟",
+    "See you again !": "أراك قريباً!",
+    "You are now successfully sign out.": "لقد تم تسجيل الخروج بنجاح.",
+    "Back to": "العودة إلى",
+    "Sign In": "تسجيل الدخول",
+    "Sign up using": "إنشاء حساب باستخدام",
+    "Already have account?": "هل لديك حساب؟",
+    "Log in": "تسجيل الدخول",
+    "Reset Password": "إعادة تعيين كلمة المرور",
+    "dashboard":"لوحة القيادة",
+    "English":"الإنجليزية",
+    "French":"الفرنسية",
+    "Arabic":"العربية"
+}
